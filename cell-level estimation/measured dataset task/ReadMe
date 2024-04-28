@@ -5,3 +5,9 @@ Y. Zheng, J. Wang, X. Li, J. Li and S. Liu, "Cell-Level RSRP Estimation With the
 which can be download at:
 
 https://github.com/ZhengSaber/Cell-Level-RSRP-Estimation
+
+The radio maps and statistical analyses estimated from the trained SPM, UNet, and GAN are available in each of these three directories.
+
+building_bs_spm: radio maps estimated by SPM model.
+label_inference_unet: radio maps estimated by UNet model.
+label_inference_gan: radio maps estimated by GAN model.
